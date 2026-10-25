@@ -1,0 +1,27 @@
+# Keil MDK-ARM build outputs
+firmware/MDK-ARM/bishe/
+firmware/MDK-ARM/Objects/
+firmware/MDK-ARM/Listings/
+firmware/MDK-ARM/*.uvguix.*
+firmware/MDK-ARM/*.dep
+firmware/MDK-ARM/*.lnp
+firmware/MDK-ARM/*.map
+firmware/MDK-ARM/*.htm
+firmware/MDK-ARM/*.build_log.htm
+firmware/MDK-ARM/*.axf
+firmware/MDK-ARM/*.hex
+firmware/MDK-ARM/*.bin
+firmware/MDK-ARM/*.o
+firmware/MDK-ARM/*.d
+firmware/MDK-ARM/*.crf
+firmware/MDK-ARM/*.lst
+firmware/MDK-ARM/*.bak
+firmware/MDK-ARM/*.iex
+firmware/MDK-ARM/*.sct
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
