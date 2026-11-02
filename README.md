@@ -83,13 +83,13 @@
 
 ### 侧方位停车
 
-[![侧方位停车演示](docs/images/parallel-parking.gif)](docs/videos/parallel-parking.mp4)
+[![侧方位停车完整演示](docs/images/parallel-parking.gif)](docs/videos/parallel-parking.mp4)
 
 ### 垂直停车
 
-[![垂直停车演示](docs/images/vertical-parking.gif)](docs/videos/vertical-parking.mp4)
+[![垂直停车完整演示](docs/images/vertical-parking.gif)](docs/videos/vertical-parking.mp4)
 
-> 说明：演示视频为手机手持拍摄，包含手机端日志画面；为减小仓库体积，视频已去除音频和拍摄元数据（含定位信息）。GitHub README 对 MP4 内嵌播放支持不稳定，因此用 GIF 做页面预览，点击 GIF 可打开完整 MP4。
+> 说明：GIF 为**完整视频**的静音压缩版（约 5 fps），加载会比普通图片慢；点击 GIF 可打开 720p 完整 MP4。视频为手机手持拍摄，包含手机端日志画面，已去除音频和拍摄元数据（含定位信息）。
 
 ## 工作原理
 
